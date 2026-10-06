@@ -1,0 +1,75 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" aria-hidden="true" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+        .default-palette, .palette0 {color: currentColor;
+            --color0: #000;
+            --color1: #d9d9d9;
+            --color2: #fff;
+        }
+    </style>
+    <defs>
+        <symbol id="Group104" viewBox="0 0 16 16" fill="none">
+            <circle stroke-width="2" stroke="var(--color2, #fff)" cx="6.52174" cy="6.52174" r="5.52174" />
+            <path fill="var(--color2, #fff)" d="M14.2929 15.7071c0.3905 0.3905 1.0237 0.3905 1.4142 0s0.3905-1.0237 0-1.4142zM11.468 10.0538 10.7609 9.3467 9.3467 10.7609l0.7071 0.7071zM15.7071 14.2929 11.468 10.0538 10.0538 11.468l4.2391 4.2391z" />
+        </symbol>
+        <symbol id="stone1" viewBox="0 0 40 40" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_53_6)" width="40" height="40" />
+            <defs>
+                <pattern id="pattern0_53_6" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="scissors1" viewBox="0 0 40 40" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_53_4)" width="40" height="40" />
+            <defs>
+                <pattern id="pattern0_53_4" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="paper1" viewBox="0 0 40 40" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_53_5)" width="40" height="40" />
+            <defs>
+                <pattern id="pattern0_53_5" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="tic-tac-toe1" viewBox="0 0 30 30" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_41_26)" width="30" height="30" />
+            <defs>
+                <pattern id="pattern0_41_26" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="sword1" viewBox="0 0 30 30" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_41_28)" width="30" height="30" />
+            <defs>
+                <pattern id="pattern0_41_28" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="puzzle1" viewBox="0 0 30 30" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_41_25)" width="30" height="30" />
+            <defs>
+                <pattern id="pattern0_41_25" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="group2" viewBox="0 0 42 39" fill="var(--color0, #000)">
+            <path stroke-width="2" stroke="var(--color0, #000)" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M11 11.7156l-10 10 10 10" />
+            <path stroke-width="2" stroke="var(--color0, #000)" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M31 11.7156l10 10-10 10" />
+            <path d="M24.5349 4.3297 15.9481 36.3761c-0.1167 0.4354-0.5643 0.6939-0.9998 0.5772-0.4354-0.1167-0.6939-0.5643-0.5772-0.9998l8.5868-32.0464c0.1167-0.4355 0.5643-0.6939 0.9998-0.5772s0.6939 0.5643 0.5772 0.9998z" />
+            <path fill="var(--color1, #d9d9d9)" d="M22.9579 3.9071c0.1167-0.4355 0.5643-0.6939 0.9998-0.5772s0.6939 0.5643 0.5772 0.9998l-1.0458 3.9031-1.577-0.4226z" />
+            <path stroke="var(--color0, #000)" stroke-linecap="round" fill="none" d="M25.6948 6.3095l3.154 0.8451" />
+            <path stroke="var(--color0, #000)" stroke-linecap="round" fill="none" d="M17.8096 4.1967l3.1541 0.8451" />
+            <path d="M20.0797 0.2501c-0.139-0.2386-0.4461-0.3209-0.6858-0.1838s-0.3213 0.4416-0.1823 0.6801zM20.8493 3.5557c0.139 0.2386 0.4461 0.3208 0.6858 0.1838 0.2398-0.1371 0.3213-0.4416 0.1823-0.6802zM19.2116 0.7464l1.6377 2.8093 0.8681-0.4964-1.6377-2.8092z" />
+            <path d="M17.3347 7.7516c-0.2397 0.137-0.3213 0.4415-0.1823 0.6801 0.1391 0.2386 0.4462 0.3209 0.6859 0.1838zM20.6612 7.0014c0.2397-0.137 0.3213-0.4416 0.1822-0.6801s-0.4461-0.3209-0.6859-0.1838zM17.8383 8.6155l2.8229-1.6141-0.5037-0.8639-2.8228 1.6141z" />
+            <path d="M25.7097 7.6253c-0.1391-0.2386-0.4462-0.3209-0.6859-0.1838s-0.3213 0.4416-0.1822 0.6801zM26.4792 10.9309c0.1391 0.2385 0.4462 0.3208 0.6859 0.1838 0.2397-0.1371 0.3213-0.4416 0.1822-0.6802zM24.8416 8.1216l1.6376 2.8093 0.8681-0.4964-1.6376-2.8092z" />
+            <path d="M25.8978 4.1795c-0.2397 0.1371-0.3213 0.4416-0.1822 0.6802 0.1391 0.2385 0.4461 0.3208 0.6859 0.1837zM29.2243 3.4294c0.2397-0.1371 0.3213-0.4416 0.1823-0.6802-0.1391-0.2385-0.4462-0.3208-0.6859-0.1838zM26.4015 5.0434l2.8228-1.614-0.5036-0.864-2.8229 1.6141z" />
+        </symbol>
+        <symbol id="game-development1" viewBox="0 0 30 30" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_41_27)" width="30" height="30" />
+            <defs>
+                <pattern id="pattern0_41_27" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+        <symbol id="football11" viewBox="0 0 50 50" fill="none" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <rect fill="url(#pattern0_30_157)" width="50" height="50" />
+            <defs>
+                <pattern id="pattern0_30_157" width="1" height="1" patternContentUnits="objectBoundingBox" />
+            </defs>
+        </symbol>
+    </defs>
+</svg>
