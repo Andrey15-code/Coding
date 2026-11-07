@@ -1,0 +1,93 @@
+<header class="flex justify-center border-b border-gray-200">
+  <div class="flex w-full max-w-[1090px] items-center justify-between bg-white px-8 py-4">
+    <div class="flex gap-20.25">
+      <div class="flex items-center gap-2">
+        <svg class="h-10 w-10">
+          <use href="./src/assets/images/symbol-defs.svg#group2"></use>
+        </svg>
+        <div>
+          <h3>Coding</h3>
+          <p>Magic</p>
+        </div>
+      </div>
+      <nav class="flex items-center gap-12.5">
+        <div class="relative inline-block text-left">
+          <button
+            id="myButton"
+            class="relative z-10 inline-flex items-center px-4 py-2 text-xl font-normal text-gray-800 transition-all focus:outline-none"
+          >
+            Інтерактив
+            <svg
+              class="ml-1 h-4 w-4 text-gray-600"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M19 9l-7 7-7-7"
+              ></path>
+            </svg>
+          </button>
+
+          <div
+            id="myMenu"
+            class="invisible absolute top-full left-0 z-0 w-48 -translate-y-full overflow-hidden rounded-b-3xl border border-t-0 border-black bg-white opacity-0 shadow-sm transition-all duration-300 ease-out"
+          >
+            <div class="flex flex-col text-center text-sm font-normal text-gray-800">
+              <a href="#" class="py-3 transition-colors hover:bg-gray-100">Числовий</a>
+              <a href="#" class="py-3 transition-colors hover:bg-gray-100">Ігровий</a>
+              <a href="#" class="py-3 transition-colors hover:bg-gray-100">Ознайомчий</a>
+            </div>
+          </div>
+        </div>
+        <a href="">Наша команда</a>
+        <a href="">Контакти</a>
+      </nav>
+    </div>
+
+    <div class="flex items-center gap-12.5">
+      <label class="relative inline-flex cursor-pointer items-center">
+        <input class="peer sr-only" type="checkbox" />
+
+        <div
+          class="h-8 w-14 rounded-full bg-gray-300 transition-colors duration-300 peer-checked:bg-gray-700"
+        ></div>
+
+        <div
+          class="absolute top-1 left-1 flex h-6 w-6 items-center justify-center rounded-full bg-white shadow transition-transform duration-300 peer-checked:translate-x-6 peer-checked:[&>.moon]:block peer-checked:[&>.sun]:hidden"
+        >
+          <svg
+            class="sun h-4 w-4 text-gray-800"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <circle cx="12" cy="12" r="4" />
+            <path
+              d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"
+            />
+          </svg>
+
+          <svg
+            class="moon hidden h-4 w-4 text-gray-800"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+          </svg>
+        </div>
+      </label>
+      <p>Вітаємо,<span>User</span>!</p>
+    </div>
+  </div>
+</header>
